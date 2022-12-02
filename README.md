@@ -1,2 +1,2 @@
 # Our-Space
-This social media project was a class project where I needed to create a program that could parse a ".json" file and create user html files.
+This social media project was a class project where I needed to create a program that could parse a ".json" file and create user html files. Storing their, location, profile image, who they follow, who follows them, and who their mutuals are. All of this information is then put together and linked so that from the home page you can visit all the users in the social media and also click on the user pages from that user's follow list, followers list, and mutuals list.
